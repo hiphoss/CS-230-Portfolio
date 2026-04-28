@@ -1,6 +1,4 @@
-# CS-230-Portfolio
 # Course work and final design document for CS-230 Software Development.
-# CS-230 Module Eight Journal Reflection
 # Brief Summary
 The client, The Gaming Room, requested a software application designed to manage teams, games, and players effectively. They needed an application capable of organizing gaming tournaments, managing team rosters, ensuring unique names for teams and games, and securely handling user authentication through a RESTful API.
 # Strengths in Documentation
